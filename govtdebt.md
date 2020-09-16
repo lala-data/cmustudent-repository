@@ -15,3 +15,8 @@
 # Time series chart
 > *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Time series fashion. This is similar to Grid of line chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3749252" data-url="https://flo.uri.sh/visualisation/3749252/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Explanation
+Tried different visualizations in flourish. The dataset which is used is more of timeseries and has multiple countries. So the visualizations had to be in Grid format providing the overall picture across different countries.I tried Pie chart eventhought it did not seem to be a right fit. As expected output was very bad.
+
+Grid of Line charts and Columnar chart provided better visualization fom my perspective. I also like scatter plot with slider. It gave me perspective on how the coutries are doing every year.
