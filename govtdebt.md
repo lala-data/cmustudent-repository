@@ -17,6 +17,11 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/3749252" data-url="https://flo.uri.sh/visualisation/3749252/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Explanation
-Tried different visualizations in flourish. The dataset which is used is more of timeseries and has multiple countries. So the visualizations had to be in Grid format providing the overall picture across different countries.I tried Pie chart eventhought it did not seem to be a right fit. As expected output was very bad.
+I tried different visualizations in flourish. 
+Area chart and Bar chart did not convey good information. Charts were abnormal and unintuitive.
+I also tried Projection Map of the world but it was not rendering correctly.
+The dataset which is used is more of timeseries and has multiple countries. So the visualizations had to be in Grid format providing the overall picture across different countries.I tried Pie chart eventhought it did not seem to be a right fit. As expected output was very bad.
 
-Grid of Line charts and Columnar chart provided better visualization fom my perspective. I also like scatter plot with slider. It gave me perspective on how the coutries are doing every year.
+Grid of Line charts and Columnar chart provided better visualization fom my perspective.
+I also like scatter plot with slider. It gave me perspective on how the coutries are doing every year.
+Also tried line chart with highlight which gave a time series view.
