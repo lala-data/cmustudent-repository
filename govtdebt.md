@@ -8,6 +8,8 @@
 > *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Columnar format*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3749018" data-url="https://flo.uri.sh/visualisation/3749018/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Columnar chart provided a better visualization on the exact vertical edge.
+
 # Scatter plot with Slider
 > *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Scatter plot with a Year Slider*
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3749171" data-url="https://flo.uri.sh/visualisation/3749171/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -25,3 +27,5 @@ The dataset which is used is more of timeseries and has multiple countries. So t
 Grid of Line charts and Columnar chart provided better visualization fom my perspective.
 I also like scatter plot with slider. It gave me perspective on how the coutries are doing every year.
 Also tried line chart with highlight which gave a time series view.
+
+Out of all charts I preferred Columnar chart to be better visualization for the dataset provided.
