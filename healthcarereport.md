@@ -4,7 +4,7 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 
 ![Healthcare Expenditure Source Data](SourceData.png)
 
-SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.
+**SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.**
 
 # Grid of line Charts
 > *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Grid lines format*
