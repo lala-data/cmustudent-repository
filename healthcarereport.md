@@ -1,5 +1,10 @@
+# Introduction
+
+Healthcare costs in the US increase year by year significantly. Even though the Government takes active steps in minimizing the burden of the citizens thru Medicare and Medicaid, people spend more money on personal healthcare expenditures, private health insurance, and out of pocket expenses. Even though the original chart intended for a different reason, if the audiences are Healthcare officials and Policy Makers are to view the same data, this report talks about how efficiently the original data can be leveraged to make the communication more effective by different visualization.
 
 ![Healthcare Expenditure Source Data](SourceData.png)
+
+SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.
 
 # Grid of line Charts
 > *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Grid lines format*
