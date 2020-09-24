@@ -49,22 +49,33 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3810790" data-url="https://flo.uri.sh/visualisation/3810790/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Stacked Bar chart - Forecasted (Generated from Tableau)
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 with forecasted information for the next 2 years*
 ![Stacked Bar chart Forecasted](StackedBar-FromTableau.png)
 
+For subsequent plots I had to transpose data from rows to columns to get the desired plotting as there were missing dimensions.
+
+## Stacked Area chart (Generated from Tableau)
+> *This is the Stacked area representation of the same data. It gives an idea how each of the costs increase in an area-wise representation*
+![Stacked Area chart](StackedArea-FromTableau.png)
+
+## Bar Graph with  Medicare/Medicaid VS Non Medicare/Medicaid(Generated from Tableau)
+> *This graph stricly compares Medicare/Medicaid program costs with costs incurred by the patient. This gives a straightforward view whether Medicare/Medicaid provides sufficient funds to help citizens in the increasing healthcare costs *
+![Bar Graph showing Medicare/Medicaid and Non Medicare/Medicaid](HealthCareExpenditure-Bar-Grayedout.png)
+
 ## Multiple Pie chart (Generated from flourish)
-> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Pie chart*
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Pie chart. I tried for visualization purposes*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811335" data-url="https://flo.uri.sh/visualisation/3811335/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Bubble-Plot (Generated from flourish)
-> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Bubble Plot*
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Bubble Plot. I tried for visualization purposes. Not a right fit*
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3811424" data-url="https://flo.uri.sh/visualisation/3811424/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Stacked Column Chart (Generated from flourish)
-> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Column chart*
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Column chart. Gives an year by year view.*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811951" data-url="https://flo.uri.sh/visualisation/3811951/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Explanation (Generated from flourish)
-I tried different visualizations in flourish and tableau
-For some of them I need to do transformations to get the plot right.
+# Conclusion 
+I tried different visualizations in flourish and tableau.For some of them I need to do transformations to get the plot right.
+Out of all charts I preferred Stacked Bar chart to be better visualization for the dataset provided. Also, Forecasting costs based on the trend will 
+provide significant value to key stakeholders who are involved in healthcare domain.
 
-Out of all charts I preferred Stacked Bar chart to be better visualization for the dataset provided.
