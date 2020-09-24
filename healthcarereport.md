@@ -7,7 +7,9 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 **SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.**
 
 [CDC Link](https://www.cdc.gov/nchs/hus/contents2018.htm?search=Health_expenditures)
+
 [Source Data](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/Health_US/hus18figures/fig18.xlsx)
+
 [Original Visualization](https://www.cdc.gov/nchs/ppt/hus/hus18fig18.pptx)
   
 
