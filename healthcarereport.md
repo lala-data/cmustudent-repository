@@ -43,23 +43,26 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 
 # New Visualizations
 
-## Stacked Bar chart
+## Stacked Bar chart (Generated from flourish)
 > *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Bar chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3810790" data-url="https://flo.uri.sh/visualisation/3810790/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Multiple Pie chart
+## Stacked Bar chart - Forecasted (Generated from Tableau)
+![Stacked Bar chart Forecasted](StackedBar-FromTableau.png)
+
+## Multiple Pie chart (Generated from flourish)
 > *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Pie chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811335" data-url="https://flo.uri.sh/visualisation/3811335/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Bubble-Plot
+## Bubble-Plot (Generated from flourish)
 > *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Bubble Plot*
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3811424" data-url="https://flo.uri.sh/visualisation/3811424/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Stacked Column Chart
+## Stacked Column Chart (Generated from flourish)
 > *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Column chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811951" data-url="https://flo.uri.sh/visualisation/3811951/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Explanation
+# Explanation (Generated from flourish)
 I tried different visualizations in flourish and tableau
 For some of them I need to do transformations to get the plot right.
 
