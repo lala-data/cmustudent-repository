@@ -6,24 +6,35 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 
 **SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.**
 
+[CDC Link](https://www.cdc.gov/nchs/hus/contents2018.htm?search=Health_expenditures)
+[Source Data](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/Health_US/hus18figures/fig18.xlsx)
+[Original Visualization](https://www.cdc.gov/nchs/ppt/hus/hus18fig18.pptx)
+  
+
 # Wireframe Mockup
 
 ![Stacked Bar chart wireframe mockup](Mockup-HealthExpenditure.jpg)
 
-# Stacked Bar chart
-> *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Grid lines format*
+# Feedback received
+  Following feedback were received based on the wireframe.
+  
+
+# New Visualizations
+
+## Stacked Bar chart
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Bar chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3810790" data-url="https://flo.uri.sh/visualisation/3810790/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Multiple Pie chart
-> *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Columnar format*
+## Multiple Pie chart
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Pie chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811335" data-url="https://flo.uri.sh/visualisation/3811335/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Bubble-Plot
-> *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Scatter plot with a Year Slider*
+## Bubble-Plot
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Bubble Plot*
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3811424" data-url="https://flo.uri.sh/visualisation/3811424/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Stacked Column Chart
-> *Below chart publishes all the Debt-GDP ratio for all the countries for the period of 1995-2018 on a Time series fashion. This is similar to Grid of line chart*
+## Stacked Column Chart
+> *Below chart publishes Health care expenditures in USA for the period of 2007-2017 on a Stacked Column chart*
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811951" data-url="https://flo.uri.sh/visualisation/3811951/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Explanation
