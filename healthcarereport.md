@@ -17,7 +17,18 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 ![Pie chart propertions](Mockup-Proportions.jpg)
 
 
-# Feedback received
+# Wireframe review and Feedback
+
+  Following questions were asked based on wireframe mockup that was created. 
+  * Can you tell me what you think this is?
+  * Can you describe to me what this is telling you?
+  * Is there anything you find surprising or confusing?
+  * Who do you think is the intended audience for this?
+  * Is there anything you would change or do differently?
+
+  Reviewers were able to identify what was that about as the Title , legend, X and Y axis provided a fair idea on what it contains.
+  Questio  was arround why label counts in first bar and left out in another bars. Once it was explained it was a sample mockup it was agreed.
+
   Following feedback were received based on the wireframe.
   * Give  more details on the exact amount spend instead of line chart
   * Give a way to forecast the next 2 years
