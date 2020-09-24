@@ -27,13 +27,14 @@ Healthcare costs in the US increase year by year significantly. Even though the 
   * Is there anything you would change or do differently?
 
   Reviewers were able to identify what was that about as the Title , legend, X and Y axis provided a fair idea on what it contains.
-  Questio  was arround why label counts in first bar and left out in another bars. Once it was explained it was a sample mockup it was agreed.
+  They also did not like the colors used. Questions were around what does the color represent.Both reviewers liked the way that was represented in
+  the mockup was bit detailed than the original graph.
 
   Following feedback were received based on the wireframe.
-  * Give  more details on the exact amount spend instead of line chart
+  * Give  more details on the exact amount spend.
   * Give a way to forecast the next 2 years
   * Show chart comparing government funded and other sources like Personal,Private,Out of pocket etc.
-  * Retain the original chart for chart-2. Pie chart did not provide more information. Stacked bar was much better.
+  * Retain the original chart for chart-2. Pie chart did not provide more information. Original Stacked bar was much better.
   
   I did not perform any data visualization changes to chart-2 as it conveyed relevant information. 
   Only suggestion I received was to show more data as 10 years is a huge gap.As the original data 
