@@ -14,6 +14,9 @@ Healthcare costs in the US increase year by year significantly. Even though the 
   
 
 # Wireframe Mockup
+
+I did a wireframe mockup to better represent the original chart provided.Even though original chart provided relevant information, I tried to enhance based on the critique evaluation I performed.
+
 ![Stacked Bar chart wireframe mockup](Mockup-HealthExpenditure.jpg)
 ![Pie chart propertions](Mockup-Proportions.jpg)
 
