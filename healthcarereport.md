@@ -22,6 +22,9 @@ Healthcare costs in the US increase year by year significantly. Even though the 
   * Give  more details on the exact amount spend instead of line chart
   * Give a way to forecast the next 2 years
   * Show chart comparing government funded and other sources like Personal,Private,Out of pocket etc.
+  * Retain the original chart for chart-2. Pie chart did not provide more information. Stacked bar was much better.
+  
+  I did not perform any data visualiation changes to chart-2 as it conveyed relevant inforamtion. Only suggestion I received was to show more data. 10 years is a huge gap
     
 
 # New Visualizations
