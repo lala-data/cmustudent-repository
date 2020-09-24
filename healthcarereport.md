@@ -5,12 +5,11 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 ![Healthcare Expenditure Source Data](SourceData.png)
 
 **SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.**
+[CDC Link](https://www.cdc.gov/nchs/hus/contents2018.htm?search=Health_expenditures)  
 
-[CDC Link](https://www.cdc.gov/nchs/hus/contents2018.htm?search=Health_expenditures)
+[Source Data](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/Health_US/hus18figures/fig18.xlsx)  
 
-[Source Data](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/Health_US/hus18figures/fig18.xlsx)
-
-[Original Visualization](https://www.cdc.gov/nchs/ppt/hus/hus18fig18.pptx)
+[Original Visualization](https://www.cdc.gov/nchs/ppt/hus/hus18fig18.pptx)  
   
 
 # Wireframe Mockup
@@ -19,7 +18,10 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 
 # Feedback received
   Following feedback were received based on the wireframe.
-  
+  * Give  more details on the exact amount spend instead of line chart
+  * Give a way to forecast the next 2 years
+  * Show chart comparing government funded and other sources like Personal,Private,Out of pocket etc.
+    
 
 # New Visualizations
 
