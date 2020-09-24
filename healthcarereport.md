@@ -13,8 +13,9 @@ Healthcare costs in the US increase year by year significantly. Even though the 
   
 
 # Wireframe Mockup
-
 ![Stacked Bar chart wireframe mockup](Mockup-HealthExpenditure.jpg)
+![Pie chart propertions](Mockup-Proportions.jpg)
+
 
 # Feedback received
   Following feedback were received based on the wireframe.
@@ -42,13 +43,7 @@ Healthcare costs in the US increase year by year significantly. Even though the 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3811951" data-url="https://flo.uri.sh/visualisation/3811951/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Explanation
-I tried different visualizations in flourish. 
-Area chart and Bar chart did not convey good information. Charts were abnormal and unintuitive.
-I also tried Projection Map of the world but it was not rendering correctly.
-The dataset which is used is more of timeseries and has multiple countries. So the visualizations had to be in Grid format providing the overall picture across different countries.I tried Pie chart eventhought it did not seem to be a right fit. As expected output was very bad.
+I tried different visualizations in flourish and tableau
+For some of them I need to do transformations to get the plot right.
 
-Grid of Line charts and Columnar chart provided better visualization fom my perspective.
-I also like scatter plot with slider. It gave me perspective on how the coutries are doing every year.
-Also tried line chart with highlight which gave a time series view.
-
-Out of all charts I preferred Columnar chart to be better visualization for the dataset provided.
+Out of all charts I preferred Stacked Bar chart to be better visualization for the dataset provided.
