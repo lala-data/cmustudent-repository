@@ -1,5 +1,5 @@
 
-# **Just beat it - Winning over Crisis** {style=text-align:center}
+# **Just beat it - Winning over Crisis**
 
 ## Introduction
 
