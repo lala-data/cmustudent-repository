@@ -30,8 +30,19 @@ I would like to basicaly apprise the audience with the avenues that be be used t
 I did a wireframe mockup to better represent the story arc provided.Even though chart talks specifically to a COVID situation it is generally applicable to any crisis in the world.
 ![Mental Health wireframe mockup](Mockup-MentalHealth.png)
 
-## Visualizations 
-More to come
+## Visualization strategy
+
+I am planning to use Tableau as the main tool to create Visualizations. The visualiations I am planning is mostly from CDC and other wesites related to mental health.I am thinking about close to 5-6 visualizations. I will be using Shorthand for my final project presentation.
+
+## Data
+
+https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
+
+https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
+
+https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30308-4/fulltext
+
+https://mhanational.org/covid19
 
 ## Conclusion 
 More to come
