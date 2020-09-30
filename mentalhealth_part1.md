@@ -10,18 +10,8 @@ This project is targeted for all individuals who would like to keep up their men
 
 As an Individual,Inspite of uncertainties around the world because of COVID 19, I would like to remain positive by maintaining physical, mental, and emotional wellbeing so that I can overcome this situation gracefully. I can overcome this by keeping me informed through right sources, having an active lifestyle, following the prescribed guidelines from Government and seeking counselling if required.
 
-My targeted audience is successful individuals and students who would originally flock to the Bay Area, NYC, Austin, Denver, etc. As a reader, I would want to learn more about Pittsburgh so I can consider relocation opportunities.
 
-I want to address the topics of tech industries, universities, culture, restaurants, and affordability in my design. Questions I aim to address are:
-
-What tech industries are in Pittsburgh?
-What good university programs are in Pittsburgh?
-What is the culture like in Pittsburgh?
-What is a restaurant and bar scene like?
-How affordable is it to live there?
-
-
-![Healthcare Expenditure Source Data](SourceData.png)
+![StoryArc](StoryArc.jpg)
 
 **SOURCE: National Center for Health Statistics. Health, United States, 2018. Hyattsville, Maryland. 2019.**  
 
