@@ -11,26 +11,24 @@ This project is targeted for all individuals who would like to keep up their men
 "As an Individual,Inspite of uncertainties around the world because of COVID 19, I would like to remain positive by maintaining physical, mental, and emotional wellbeing so that I can overcome this situation gracefully. I can overcome this by keeping me informed through right sources, having an active lifestyle, following the prescribed guidelines from Government and seeking counselling if required."
 ![StoryArc](StoryArc.jpg)
 
+ # Topics addressed
+
 I would like to basicaly apprise the audience with the avenues that be be used to keep the mental health in the better shape:
 
-How physical health and activity will take of mental health?
-How can we improve it?
-what are the ways to improve it?
-what are the ways to keep informed?
-what are the ways to keep socially connected?
-How to cope up with anxiety and depression because of lost job,health etc?
- 
+  * How physical health and activity will take of mental health?
+  * How can we improve it?
+  * what are the ways to improve it?
+  * what are the ways to keep informed?
+  * what are the ways to keep socially connected?
+  * How to cope up with anxiety and depression because of lost job,health etc?
 
 # Wireframe Mockup
 
 I did a wireframe mockup to better represent the story arc provided.Even though chart talks specifically to a COVID situation it is generally applicable to any crisis in the world.
-
 ![Mental Health wireframe mockup](Mockup-MentalHealth.png)
 
+# Visualizations 
+More to come
 
 # Conclusion 
-I tried different visualizations in flourish and tableau.For some of them I need to do transformations to get the plot right.
-Out of all charts I preferred Stacked Bar chart to be better visualization for the dataset provided. Also, Forecasting costs based on the trend will 
-provide significant value to key stakeholders who are involved in healthcare domain.
-
-
+More to come
