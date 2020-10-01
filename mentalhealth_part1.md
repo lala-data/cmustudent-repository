@@ -36,7 +36,7 @@ Covid Cases and Dealth data [click here](https://data.cdc.gov/Case-Surveillance/
 
 Anxiety and Depression due to COVID [click here](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp). This site has a report which is downloable which mainly deals with Anxiety and depression.
 
-Our world in Data provides lot of interesting data about Mental health[click here](https://ourworldindata.org/mental-health#licence)
+Our world in Data provides lot of interesting data about Mental health [click here](https://ourworldindata.org/mental-health#licence)
 
 Centre Signature data bank for Mental Health [click here](http://www.banquesignature.ca/en/a-propos/centre-signature/)
 
@@ -63,7 +63,7 @@ Mental health before and during the COVID-19 pandemic [click here](https://www.t
 
 Mental Health and COVID [click here](https://mhanational.org/covid19)
 
-North Sound Behavioral Health[click here](https://nsbhaso.org/)
+North Sound Behavioral Health [click here](https://nsbhaso.org/)
 
 ## Conclusion 
 More to come
