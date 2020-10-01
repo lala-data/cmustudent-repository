@@ -47,7 +47,7 @@ Mental Health in Tech Industry [click here](https://www.kaggle.com/anth7310/ment
 ## Method and Medium
 
 I am planning to use Tableau as the main tool to create Visualizations. The visualizations I am planning is mostly from CDC and other websites related to mental health.I am thinking about close to 4-5 visualizations.  
-I will be using Shorthand for my final project presentation.For images in my presentation I would source it from [Unsplash] (https://unsplash.com/)
+I will be using Shorthand for my final project presentation.For images in my presentation I would source it from [Unsplash](https://unsplash.com/)
 
 ## Links that will be referred
 
