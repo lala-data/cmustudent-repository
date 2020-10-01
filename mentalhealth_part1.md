@@ -6,11 +6,11 @@ Recent COVID-19 pandemic has impacted the world in a big way. Normal life in the
 
 ## Audience
 
-This project is targeted for all individuals who would like to keep up their mental health who is currently missing social interactions and outdoor activities. Majority of the information are based on personal ideas. I am by no means an expert on this topic, but I strongly believe that with a strong mental health and support system we can go through any crisis times successfully.
+This project is targeted for all individuals who would like to keep up their mental health who is currently missing social interactions and outdoor activities. Majority of the information in this project is based on my personal views and information available in websites (which will be cited). I am by no means an expert on this topic, but I strongly believe that with a strong mental health and support system we can go through any crisis times successfully.
 
 ## Story Arc and Call for action
 Below is the story I framed.  
-"As an Individual,Inspite of uncertainties around the world because of COVID 19, I would like to remain positive by maintaining physical, mental, and emotional wellbeing so that I can overcome this situation gracefully. I can overcome this by keeping me informed through right sources, having an active lifestyle, following the prescribed guidelines from Government and seeking counselling if required."
+"As an Individual,Inspite of uncertainties around the world like COVID 19, I would like to remain positive by maintaining physical, mental, and emotional wellbeing so that I can overcome this situation gracefully. I can overcome this by keeping me informed through right sources, having an active lifestyle, following the prescribed guidelines from Government and seeking counselling if required."
 ![StoryArc](StoryArc.jpg)
 
 ## Topics addressed
@@ -27,10 +27,6 @@ I would like to basicaly apprise the audience with the avenues that would be use
 
 I did a wireframe mockup to better represent the story arc provided.Even though chart talks specifically to a COVID situation it is generally applicable to any crisis in the world.
 ![Mental Health wireframe mockup](Mockup-MentalHealth.png)
-
-## Visualization strategy
-
-I am planning to use Tableau as the main tool to create Visualizations. The visualiations I am planning is mostly from CDC and other wesites related to mental health.I am thinking about close to 5-6 visualizations. I will be using Shorthand for my final project presentation.
 
 ## Data
 
@@ -49,6 +45,11 @@ Mental data.gov [click here](https://catalog.data.gov/dataset/indicators-of-anxi
 Centre Signature data bank for Mental Health [click here](http://www.banquesignature.ca/en/a-propos/centre-signature/)
 
 Substance Abuse and Mental Health Data Archive [click here](https://www.datafiles.samhsa.gov/)
+
+## Method and Medium
+
+I am planning to use Tableau as the main tool to create Visualizations. The visualiations I am planning is mostly from CDC and other websites related to mental health.I am thinking about close to 4-5 visualizations.  
+I will be using Shorthand for my final project presentation.For images in my presentation I would source it from [Unsplash] (https://unsplash.com/)
 
 ## Links that will be referred
 
