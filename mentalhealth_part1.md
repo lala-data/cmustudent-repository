@@ -34,6 +34,18 @@ I am planning to use Tableau as the main tool to create Visualizations. The visu
 
 ## Data
 
+
+Industry Data: I will be using dates from company entries into Pittsburgh and create a timeline of their arrival. Data was scraped from this report and put into an Excel file.
+
+University Data: I will be using information scraped from QS University Subject Rankings on top-rated programs in Pittsburgh at different universities and I will be formulating a table.
+
+Sports Data: I have compiled a list of national championships, from Google's database and manipulated turned it into an Excel file.  I will be displaying them by the organization and I plan on using their logos as a way to visualize each team.
+
+Art Data: I found some interesting statistics from Pittsburgh Art Council and will be highlighting it in text.
+
+Restaurant Data: I will be using geolocation data from OpenData to create a map, and then I will be scraping Yelp for data on 5 different restaurants in Pittsburgh I want to highlight. I haven’t decided which restaurants I want to highlight, but I think it will be one from each popular neighborhood: Mt. Washington, Lawrenceville, Downtown, Shadyside, and Squirrel Hill.
+
+Affordability Data: I found this dataset on Numbeo and transformed it to an Excel. I plan on using a bar chart to highlight Pittsburgh’s ranking, and then point out other high-tech cities such as San Fran, Denver, Austin, NYC.    
 https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
 
 https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
