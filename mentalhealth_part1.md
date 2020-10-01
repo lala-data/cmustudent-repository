@@ -30,21 +30,19 @@ I did a wireframe mockup to better represent the story arc provided.Even though 
 
 ## Data
 
-Mental Health data source in CDC [click here](https://www.cdc.gov/mentalhealth/)  
+Mental Health data source in CDC [click here](https://www.cdc.gov/mentalhealth/) . This site has comprehensive inforamtion about Mental Health. This will be my primary source of data for the project.
 
-Covid Cases and Dealth data [click here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data)
+Covid Cases and Dealth data [click here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data) . This is to show how any crisis can impact us.
 
-Anxied and Depression due to COVID [click here](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp)
+Anxiety and Depression due to COVID [click here](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp). This site has a report which is downloable which mainly deals with Anxiety and depression.
 
-American Psychological Association data [click here](https://www.apa.org/research/responsible/data-links)
-
-Our world in Data [click here](https://ourworldindata.org/mental-health#licence)
-
-Mental data.gov [click here](https://catalog.data.gov/dataset/indicators-of-anxiety-or-depression-based-on-reported-frequency-of-symptoms-during-last-7-)
+Our world in Data provides lot of interesting data about Mental health[click here](https://ourworldindata.org/mental-health#licence)
 
 Centre Signature data bank for Mental Health [click here](http://www.banquesignature.ca/en/a-propos/centre-signature/)
 
 Substance Abuse and Mental Health Data Archive [click here](https://www.datafiles.samhsa.gov/)
+
+Mental Health in Tech Industry [click here](https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry?select=mental_health.sqlite)
 
 ## Method and Medium
 
@@ -52,6 +50,8 @@ I am planning to use Tableau as the main tool to create Visualizations. The visu
 I will be using Shorthand for my final project presentation.For images in my presentation I would source it from [Unsplash] (https://unsplash.com/)
 
 ## Links that will be referred
+
+American Psychological Association data [click here](https://www.apa.org/research/responsible/data-links)
 
 Mental Health and Psychology related articles are available [click here](https://www.apa.org/monitor/2011/12/exercise)
 
@@ -62,6 +62,8 @@ Anxiety and depression Pulse survey [click here](https://www.cdc.gov/nchs/covid1
 Mental health before and during the COVID-19 pandemic [click here](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30308-4/fulltext)
 
 Mental Health and COVID [click here](https://mhanational.org/covid19)
+
+North Sound Behavioral Health[click here](https://nsbhaso.org/)
 
 ## Conclusion 
 More to come
