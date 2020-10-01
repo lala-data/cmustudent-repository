@@ -34,25 +34,29 @@ I am planning to use Tableau as the main tool to create Visualizations. The visu
 
 ## Data
 
-https://www.cdc.gov/mentalhealth/
-Industry Data: I will be using dates from company entries into Pittsburgh and create a timeline of their arrival. Data was scraped from this report and put into an Excel file.
+Mental Health data source in CDC [click here](https://www.cdc.gov/mentalhealth/)  
 
-University Data: I will be using information scraped from QS University Subject Rankings on top-rated programs in Pittsburgh at different universities and I will be formulating a table.
+Covid Cases and Dealth data [click here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data)
 
-Sports Data: I have compiled a list of national championships, from Google's database and manipulated turned it into an Excel file.  I will be displaying them by the organization and I plan on using their logos as a way to visualize each team.
+Anxied and Depression due to COVID [click here](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp)
 
-Art Data: I found some interesting statistics from Pittsburgh Art Council and will be highlighting it in text.
+American Psychological Association data [click here](https://www.apa.org/research/responsible/data-links)
 
-Restaurant Data: I will be using geolocation data from OpenData to create a map, and then I will be scraping Yelp for data on 5 different restaurants in Pittsburgh I want to highlight. I haven’t decided which restaurants I want to highlight, but I think it will be one from each popular neighborhood: Mt. Washington, Lawrenceville, Downtown, Shadyside, and Squirrel Hill.
+Our world in Data [click here](https://ourworldindata.org/mental-health#licence)
 
-Affordability Data: I found this dataset on Numbeo and transformed it to an Excel. I plan on using a bar chart to highlight Pittsburgh’s ranking, and then point out other high-tech cities such as San Fran, Denver, Austin, NYC.    
-https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
+## Links that will be referred
 
-https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
+Mental Health and Psychology related articles are available [click here](https://www.apa.org/monitor/2011/12/exercise)
 
-https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30308-4/fulltext
+Daily Exercise and Mental Health [click here](https://www.sciencedaily.com/releases/2018/08/180808193656.htm#:~:text=2-,Exercise%20linked%20to%20improved%20mental%20health%2C%20but,may%20not%20always%20be%20better&text=Summary%3A,people%20who%20do%20not%20exercise.) 
 
-https://mhanational.org/covid19
+Daily Exercise and Mental Health [click here]https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
+
+Daily Exercise and Mental Health [click here]https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
+
+Daily Exercise and Mental Health [click here]https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30308-4/fulltext
+
+Daily Exercise and Mental Health [click here]https://mhanational.org/covid19
 
 ## Conclusion 
 More to come
