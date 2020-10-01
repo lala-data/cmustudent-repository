@@ -9,7 +9,7 @@ Recent COVID-19 pandemic has impacted the world in a big way. Normal life in the
 This project is targeted for all individuals who would like to keep up their mental health who is currently missing social interactions and outdoor activities. Majority of the information are based on personal ideas. I am by no means an expert on this topic, but I strongly believe that with a strong mental health and support system we can go through any crisis times successfully.
 
 ## Story Arc and Call for action
-Below is the story I framed.
+Below is the story I framed.  
 "As an Individual,Inspite of uncertainties around the world because of COVID 19, I would like to remain positive by maintaining physical, mental, and emotional wellbeing so that I can overcome this situation gracefully. I can overcome this by keeping me informed through right sources, having an active lifestyle, following the prescribed guidelines from Government and seeking counselling if required."
 ![StoryArc](StoryArc.jpg)
 
