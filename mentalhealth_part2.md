@@ -13,7 +13,7 @@ I created Tableau from the data sources that were provided in the Part1.
 
 
 | Question      | Reviewer1 (CMU Student)| Reviewer2 (Coworker) | Reviewer3 (Coworker) | Reviewer4 (Coworker) |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | Is it clear and easy to understand?      | Yes, you are telling your audience that people from all walks of life can be affected by a mental illness. Your call to action in concise and direct.       | Header      | Title       | Title       |
 | Did you feel engaged?   | I felt somewhat engaged. Honestly, there was a lot of text to get through and I found myself skimming over sections. Maybe trim some things down? Or rearrange into graphics or quick facts?        | Header      | Title       | Title       |
 | What is unclear or confusing?   | Is there a definition for the Household Pulse Survey? I like your data viz, but I wasn’t quite sure what it meant in regards to its data source.Also, I was confused about the Percentage of People without lasting Mental Illness (Primarily Depression and Anxiety). What does that mean? And if it isn’t lasting, are you looking at people no longer with mental illness? | Header      | Title       | Title       |
