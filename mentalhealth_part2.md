@@ -14,10 +14,14 @@ I created Tableau from the data sources that were provided in the Part1.
 
 | Question      | Reviewer1 | Reviewer1 | Reviewer3  |
 | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Header      | Title       |
-| Paragraph   | Text        | Header      | Title       |
-| Paragraph   | Text        | Header      | Title       |
-
+| Is it clear and easy to understand?      | Title       | Header      | Title       |
+| Did you feel engaged?   | Text        | Header      | Title       |
+| What is unclear or confusing?   | Text        | Header      | Title       |
+| Do the use of Data and Visualizations help you to understand the context and support the presentation?     | Title       | Header      | Title       |
+| Did something surprise you?  | Text        | Header      | Title       |
+| Is there a clear “call to action” or next step? what do you think it is?   | Text        | Header      | Title       |
+| what did you like the most?   | Text        | Header      | Title       |
+| Suggestions on improvement?  | Text        | Header      | Title       |
 
 ## Audience
 
