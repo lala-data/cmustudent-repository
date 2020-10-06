@@ -14,14 +14,17 @@ I created Tableau from the data sources that were provided in the Part1.
 
 | Question      | Reviewer1 | Reviewer1 | Reviewer3  |
 | ----------- | ----------- | ----------- | ----------- |
-| Is it clear and easy to understand?      | Title       | Header      | Title       |
-| Did you feel engaged?   | Text        | Header      | Title       |
-| What is unclear or confusing?   | Text        | Header      | Title       |
-| Do the use of Data and Visualizations help you to understand the context and support the presentation?     | Title       | Header      | Title       |
-| Did something surprise you?  | Text        | Header      | Title       |
-| Is there a clear “call to action” or next step? what do you think it is?   | Text        | Header      | Title       |
-| what did you like the most?   | Text        | Header      | Title       |
-| Suggestions on improvement?  | Text        | Header      | Title       |
+| Is it clear and easy to understand?      | Yes, you are telling your audience that people from all walks of life can be affected by a mental illness. Your call to action in concise and direct.       | Header      | Title       |
+| Did you feel engaged?   | I felt somewhat engaged. Honestly, there was a lot of text to get through and I found myself skimming over sections. Maybe trim some things down? Or rearrange into graphics or quick facts?        | Header      | Title       |
+| What is unclear or confusing?   | A few things:
+-	Is there a definition for the Household Pulse Survey? I like your data viz, but I wasn’t quite sure what it meant in regards to its data source.
+-	Also, I was confused about the Percentage of People without lasting Mental Illness (Primarily Depression and Anxiety). What does that mean? And if it isn’t lasting, are you looking at people no longer with mental illness? 
+       | Header      | Title       |
+| Do the use of Data and Visualizations help you to understand the context and support the presentation?     | Yes. Can you enlarge them in Shorthand though? They are a bit small. Also, be aware that it looks like you changed up some colors (in the age groups, the colors aren’t consistent with the groupings throughout all the graphs). I would also recommend not putting the source directly above the graph, as it makes it look like the title.       | Header      | Title       |
+| Did something surprise you?  | It was surprising that the youth numbers are so much higher than the other groups.        | Header      | Title       |
+| Is there a clear “call to action” or next step? what do you think it is?   | Yes, the call to action is clear. You don’t present data on 4 out of the 5 things listed, which may not be a bad thing, just something I noticed.        | Header      | Title       |
+| what did you like the most?   | I really liked your introduction. I thought it was compelling and encouraged me to scroll down quickly.        | Header      | Title       |
+| Suggestions on improvement?  | Overall, I was impressed! I think your information looks good in Shorthand. I liked how you revised so COVID wasn’t overpowering the subject. Also, I understand the importance of the text, but I think there are some sections that could be trimmed down. It looks like you have made amazing headway for the final project!!        | Header      | Title       |
 
 ## Audience
 
