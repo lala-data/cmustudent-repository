@@ -4,9 +4,9 @@
 
 Based on the feedback received from the last class I deviated from the original storyboard which I proposed in part1.  
 My original Proposal was to study the mental health during the COVID. I modified to concentrate on Mental health as a whole.  
-I did not change the balsamiq mockup or sketched again. Instead I concentrated primarily on Tableau charts and Shorthand to make it more appealing so that I can get feedback from reviewers in a more precise way.  
+I already decided to make my final project in Shorthand. Therefore I did not change the original balsamiq mockup or sketched again. Instead I concentrated primarily on Tableau charts and Shorthand to make it more appealing so that I can get feedback from reviewers in a more detailed way.  
 I gathered relevant pictures from unsplash and different web sources.   
-I used Shorthand so that it could give much appeal for the story.  
+I used Shorthand so that it could give much appeal for the storyboarding.  
 I created Tableau from the data sources that were provided in the Part1.  
 All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
@@ -17,7 +17,7 @@ Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0
 ## User Research and Interviews Feedback:
 
 I sought the help of one of CMU student and 3 of my coworkers who were happy to help in giving feedback. 
-I basically emailed to the reviewers event without telling them about the context and asked to answer the questoin.Two of the coworkers really appreciated me in taking this topic as this is a need of this hour. I have tabulated the questions and responses below.
+I basically emailed to the reviewers event without telling them about the context and asked to answer the questoin.All reviewers really appreciated me in taking this specific topic as this is a need of this hour. I have tabulated the questions and responses below.
 
 
 | Questions     | Reviewer1 (CMU Student)| Reviewer2 (Coworker-Test Analyst) | Reviewer3 (Coworker-Program Manager) | Reviewer4 (Coworker-DB Architect) |
