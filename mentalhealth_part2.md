@@ -2,15 +2,15 @@
 
 ## Wireframes/Storyboards
 
-Based on the feedback received from the last class I deviated from the original storyboard which I proposed in part1.
-My origial Proposal was to study the mental health during the COVID. I modified to concentrate Mental health as a whole.
-I did not change the balsamiq mockup or sketched again. Instead I concentrated primarily on Tableau charts and Shorthand to make it more appealing so that I can get feedback from reviewers in a more precise way.
-I gathered relevant pictures from unsplash and different web sources. 
-I used Shorthand so that it could give much appeal for the story.
-I created Tableau from the data sources that were provided in the Part1.
-All the tableau visualizations are posted to Tableau Public . Its Embed code is linked to shorthand using the Custom HTML block.
+Based on the feedback received from the last class I deviated from the original storyboard which I proposed in part1.  
+My original Proposal was to study the mental health during the COVID. I modified to concentrate on Mental health as a whole.  
+I did not change the balsamiq mockup or sketched again. Instead I concentrated primarily on Tableau charts and Shorthand to make it more appealing so that I can get feedback from reviewers in a more precise way.  
+I gathered relevant pictures from unsplash and different web sources.   
+I used Shorthand so that it could give much appeal for the story.  
+I created Tableau from the data sources that were provided in the Part1.  
+All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
-Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
+Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u)   
 
 ## User Research and Interviews Feedback:
 
