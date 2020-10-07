@@ -10,7 +10,7 @@ I used Shorthand so that it could give much appeal for the storyboarding.
 I created Tableau from the data sources that were provided in the Part1.  
 All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
-I started with a building a Persona and providing a problem context.This gave me a great start. Then I explained how mental health is important and what are the factors that are affecting it.I provided Tableau visualizations of how is Mental Illness affecting in USA.Slowly I build a call to action in the form of other alternatives to support good mental health.
+I started with a building a Persona and providing a problem context.This gave me a great start. Then I explained how mental health is important and what are the factors that are affecting it.I provided Tableau visualizations of how is Mental Illness affecting in USA.Slowly I built a call to action in the form of other alternatives to support good mental health.
 
 Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u)   
 
