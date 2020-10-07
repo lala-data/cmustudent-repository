@@ -8,7 +8,9 @@ I did not change the balsamiq mockup or sketched again. Instead I concentrated p
 I gathered relevant pictures from unsplash and different web sources. 
 I used Shorthand so that it could give much appeal for the story.
 I created Tableau from the data sources that were provided in the Part1.
-All the tableu visualizations are posted to Tableau Public . Its Embed code is linked to shorthand using the Custom HTML block.
+All the tableau visualizations are posted to Tableau Public . Its Embed code is linked to shorthand using the Custom HTML block.
+
+Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
 
 ## User Research and Interviews Feedback:
 
