@@ -17,7 +17,7 @@ Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0
 ## User Research and Interviews Feedback:
 
 I sought the help of one of CMU student and 3 of my coworkers who were happy to help in giving feedback. 
-I basically emailed to the reviewers event without telling them about the context and asked to answer the questoin.All reviewers really appreciated me in taking this specific topic as this is a need of this hour. I have tabulated the questions and responses below.
+I basically emailed to the reviewers telling them about the brief context on what is it about and asked them to answer the questions after they review. All reviewers really appreciated me in taking this specific topic as this is a need of this hour. I have tabulated the questions and responses below.
 
 
 | Questions     | Reviewer1 (CMU Student)| Reviewer2 (Coworker-Test Analyst) | Reviewer3 (Coworker-Program Manager) | Reviewer4 (Coworker-DB Architect) |
@@ -33,4 +33,4 @@ I basically emailed to the reviewers event without telling them about the contex
 
 
 ## Conclusion 
-It was a great experience preparing the project to make it interesting . I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.During the course of this week I will try to enhance it and make it much better based on the feedback received.
+It was a great experience preparing the project to make it interesting. I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.During the course of this week I will try to enhance it and make it much better based on the feedback received.
