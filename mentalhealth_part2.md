@@ -10,14 +10,17 @@ I used Shorthand so that it could give much appeal for the story.
 I created Tableau from the data sources that were provided in the Part1.  
 All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
+I started with a building a Persona and providing a problem context.This gave me a great start. Then I explained how mental health is important and what are the factors that are affecting it.I provided Tableau visualizations of how is Mental Illness affecting in USA.Slowly I build a call to action in the form of other alternatives to support good mental health.
+
 Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u)   
 
 ## User Research and Interviews Feedback:
 
-I sought the help of one of CMU student and 3 of my coworkers who were happy to help in going thru. Two of the coworkers really appreciated me in taking this topic as this is a need of this hour. I have tabulated the Questions and responses below.
+I sought the help of one of CMU student and 3 of my coworkers who were happy to help in giving feedback. 
+I basically emailed to the reviewers event without telling them about the context and asked to answer the questoin.Two of the coworkers really appreciated me in taking this topic as this is a need of this hour. I have tabulated the questions and responses below.
 
 
-| Questions     | Reviewer1 (CMU Student)| Reviewer2 (Coworker) | Reviewer3 (Coworker) | Reviewer4 (Coworker) |
+| Questions     | Reviewer1 (CMU Student)| Reviewer2 (Coworker-Test Analyst) | Reviewer3 (Coworker-Program Manager) | Reviewer4 (Coworker-DB Architect) |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Is it clear and easy to understand?      | Yes, you are telling your audience that people from all walks of life can be affected by a mental illness. Your call to action in concise and direct.       | Yes,Very well      | Yes       | Yes       |
 | Did you feel engaged?   | I felt somewhat engaged. Honestly, there was a lot of text to get through and I found myself skimming over sections. Maybe trim some things down? Or rearrange into graphics or quick facts?        | absolutely      | Yes       | Yes, the subject is very timely/important Today       |
@@ -30,4 +33,4 @@ I sought the help of one of CMU student and 3 of my coworkers who were happy to 
 
 
 ## Conclusion 
-It was a great experience preparing the project to make it interesting . I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.During the course of this week I will try to enhance it and make it much better.
+It was a great experience preparing the project to make it interesting . I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.During the course of this week I will try to enhance it and make it much better based on the feedback received.
