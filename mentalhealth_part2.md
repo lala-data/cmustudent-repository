@@ -41,8 +41,8 @@ I basically emailed to the reviewers telling them about the brief context on wha
 * Explain more about the Visualization. Specifically "Household Pulse survey". 
 * Should revisit "Percentage of People without lasting Mental Illness"
 * Make visualizations big bigger. Currently looks crowded.
-* Grammar mistakes.
-* Will add a section for Healthy diet.
+* Address Grammar mistakes.
+* Add section for Healthy diet.
 * Revisit the pictures used.
 
 
