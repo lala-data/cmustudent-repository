@@ -35,5 +35,16 @@ I basically emailed to the reviewers telling them about the brief context on wha
 | Suggestions on improvement?  | Overall, I was impressed! I think your information looks good in Shorthand. I liked how you revised so COVID wasn’t overpowering the subject. Also, I understand the importance of the text, but I think there are some sections that could be trimmed down. It looks like you have made amazing headway for the final project!!        | nicely done!      | Some work needed to make it much better       | Improve grammar.  The photos of people are much more impactful.  Consider replacing the “warning signs” photo with say “a person exhibiting a warning sign”.   Replace pill bottle with a “happy person” i.e. the result of treatment; a more positive message.       |
 
 
+## Key Takeaways from User Research (will be the action plan for next week final)
+* Trimming texts and rearrange graphics.
+* Add more Visualization and remove texts so that it is more appealing.
+* Explain more about the Visualization. Specifically "Household Pulse survey". 
+* Should revisit "Percentage of People without lasting Mental Illness"
+* Make visualizations big bigger. Currently looks crowded.
+* Grammar mistakes.
+* Will add a section for Healthy diet.
+* Revisit the pictures used.
+
+
 ## Conclusion 
 It was a great experience preparing the project to make it interesting. I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.I have to modify my charts to make it more understandable and also make the texts more clear and concise.During the course of this week I will enhance it and make it much better based on the feedback received.
