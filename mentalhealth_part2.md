@@ -15,9 +15,7 @@ I started with a building a Persona and providing a problem context.This gave me
 Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u)   
 
 ## Audience
-My audience are primarily general public as the Mental health is a common topic applicable to everyone. My main aim is to  .
-
-
+My audience are primarily general public as the Mental health is a common topic applicable to everyone. My main aim is to educate public about means to support good mental health. Majority of the information in this project is based on my personal views and information available in websites (which will be cited). I am by no means an expert on this topic, but I strongly believe following suggestions will benefit everyone.
 
 ## User Research and Interviews Feedback:
 
