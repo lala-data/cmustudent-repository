@@ -14,14 +14,10 @@ I started with a building a Persona and providing a problem context.This gave me
 
 Draft version of project is [here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u)   
 
-## Wireframes/Storyboards
+## Audience
 My audience are primarily general public as the Mental health is a common topic applicable to everyone. My main aim is to  .
 
-Mid 20s CMU graduate student who is contemplating future employment location
-Mid 30s highly educated experience in data and design with little Pittsburgh experience
-Mid 20s tech industry worker looking to go back to school or leave the Bay area in hopes of another job
-Mid 30s Pittsburgh native with a deep-seated love of the city
-Early 20s recent arts undergraduate contemplating future employment or higher education
+
 
 ## User Research and Interviews Feedback:
 
