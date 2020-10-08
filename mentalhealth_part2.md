@@ -5,9 +5,9 @@
 Based on the feedback received from the last class I deviated from the original storyboard which I proposed in part1.  
 My original Proposal was to study the mental health during the COVID. I modified to concentrate on Mental health as a whole.  
 I already decided to make my final project in Shorthand. Therefore I did not change the original balsamiq mockup or sketched again. Instead I concentrated primarily on Tableau charts and Shorthand to make it more appealing so that I can get feedback from reviewers in a more detailed way.  
-I gathered relevant pictures from unsplash and different web sources.   
-I used Shorthand so that it could give much appeal for the storyboarding.  
-I created Tableau from the data sources that were provided in the Part1.  
+* Gathered relevant pictures from unsplash and different web sources.   
+* Used Shorthand so that it could give much appeal for the storyboarding.  
+* Created Tableau from the data sources that were provided in the Part1.  
 All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
 I started with a building a Persona and providing a problem context.This gave me a great start. Then I explained how mental health is important and what are the factors that are affecting it.I provided Tableau visualizations of how is Mental Illness affecting in USA.Slowly I built a call to action in the form of other alternatives to support good mental health.
