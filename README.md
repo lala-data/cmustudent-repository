@@ -1,4 +1,4 @@
-# cmustudent-repository
+# Lala's Portfolio
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
@@ -11,10 +11,11 @@ I use data to provide volume trends and growth of our programs so that I can get
 # What I hope to learn
 Data Visualization techniques will be useful for my Analysis and presentation to my stakeholders.
 Usually I use Excel for my visualizations. My graphs and Charts are more tech focused rather than Visually correct.
-This course would definitely help me to put across my perspective in appealing manner.I find this course very interesting.
+This course would definitely help me to put across my perspective in appealing manner.
+I would like to explain the problem in terms of storytelling with Visualizations so that audience can quickly grasp the content.
+I found this course very interesting.
 
 # Portfolio
 This site will contain all my Data Visualizations done in this class
-
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707685" data-url="https://flo.uri.sh/visualisation/3707685/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
