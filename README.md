@@ -1,4 +1,4 @@
-# Lala's Portfolio
+<img src="DreamsComeTrue.png" class="center"/>
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
