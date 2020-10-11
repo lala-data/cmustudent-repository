@@ -1,4 +1,9 @@
-<img src="DreamsComeTrue.png" class="center"/>
+<style type="text/css" rel="stylesheet">
+.width { width: 100%;
+  border: none; }
+</style>
+<img src="DreamsComeTrue.png" class="width"/>  
+
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
