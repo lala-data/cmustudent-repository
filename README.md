@@ -18,4 +18,20 @@ I found this course very interesting.
 # Portfolio
 This site will contain all my Data Visualizations done in this class
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3707685" data-url="https://flo.uri.sh/visualisation/3707685/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Assignments
+
+### Assignment 2
+Visualizing government debt [click here](https://lala-data.github.io/cmustudent-repository/govtdebt.html)
+
+### Assignment 3
+Critique by Design - Health care report [click here](https://lala-data.github.io/cmustudent-repository/healthcarereport.html)
+
+## Final Project
+
+### Part 1
+Mental Health -Introduction,StoryArc,Wireframe Mockup and Data Sources [click here](https://lala-data.github.io/cmustudent-repository/mentalhealth_part1.html)
+
+### Part 2
+Mental Health - Wireframes/Storyboards,User Research/Feedback,Key Takeways [click here](https://lala-data.github.io/cmustudent-repository/mentalhealth_part2.html)
+
+<!--div class="flourish-embed flourish-chart" data-src="visualisation/3707685" data-url="https://flo.uri.sh/visualisation/3707685/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div-->
