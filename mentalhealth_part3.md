@@ -27,7 +27,7 @@ My entire project and wireframes were done with Shorthand and Tableau. I became 
 * All the tableau visualizations are posted to Tableau Public.Its Embed code is linked to shorthand using the Custom HTML block.  
 
 ## Final version of Project
- [final](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
+ [Click Here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
  
 ## Portfolio Home page 
-[Click Here](https://lala-data.github.io/cmustudent-repository/) 
+ [Click Here](https://lala-data.github.io/cmustudent-repository/) 
