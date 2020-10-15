@@ -31,7 +31,7 @@ This entire project and wireframes were done with Shorthand and Tableau. I becam
 * Created Tableau from the data sources that were provided in the Part1.  
 * All the tableau visualizations are posted to Tableau Public. Its Embed code is linked to shorthand using the Custom HTML block.
 
-## Final version of Project
+## Final version of Project  
  [Click Here](https://carnegiemellon.shorthandstories.com/winning-over-crisis/index.html) 
  
 ## Portfolio Home page 
