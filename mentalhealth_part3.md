@@ -32,7 +32,7 @@ This entire project and wireframes were done with Shorthand and Tableau. I becam
 * All the tableau visualizations are posted to Tableau Public. Its Embed code is linked to shorthand using the Custom HTML block.
 
 ## Final version of Project
- [Click Here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
+ [Click Here](https://carnegiemellon.shorthandstories.com/winning-over-crisis/index.html) 
  
 ## Portfolio Home page 
  [Click Here](https://lala-data.github.io/cmustudent-repository/) 
