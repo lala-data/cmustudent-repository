@@ -42,7 +42,5 @@ Mental Health - Wireframes/Storyboards,User Research/Feedback,Key Takeways [clic
 ### Part 3
 Mental Health - Final Part [click here](https://lala-data.github.io/cmustudent-repository/mentalhealth_part3.html) 
 
-### Final Shorthand Story
- [Click Here](https://preview.shorthand.com/rlsvhtFJnpE6mP0u) 
-
-<!--div class="flourish-embed flourish-chart" data-src="visualisation/3707685" data-url="https://flo.uri.sh/visualisation/3707685/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div-->
+### Final Project Shorthand Story
+ [Click Here](https://carnegiemellon.shorthandstories.com/winning-over-crisis/index.html) 
