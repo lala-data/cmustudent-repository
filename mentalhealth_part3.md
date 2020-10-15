@@ -7,9 +7,11 @@
  [Part 2](https://lala-data.github.io/cmustudent-repository/mentalhealth_part2.html)  
  
  
- ## Overview
+## Audience
 
 As mention in my previous parts, my audience for this project is the general public as the mental health importance is applicable for all. I want people to understand that mental illness is not a taboo. It is quite common for someone to be mentally ill at any point in time. Instead of silently struggling it is better to seek help and get out of it. 
+
+## Summary of work
 
 In my Part I,  I  primarily focused on the impacts of the COVID-19 on the mental health of Americans.  I used Balsamic and hand sketches for putting the idea. I was suggested not to concentrate on COVID but Mental health on a broader sense.
 
