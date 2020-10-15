@@ -11,7 +11,7 @@
 
 As mention in my previous parts, my audience for this project is the general public as the mental health importance is applicable for all. I want people to understand that mental illness is not a taboo. It is quite common for someone to be mentally ill at any point in time. Instead of silently struggling it is better to seek help and get out of it. I chose a persona named "Adam" who represents a person with Mental Illness. I want to tell the viewers individual suffering from mental illness is not alone. 
 
-While there are many ways to tackle mental illness like Medication and Psychotherapy my focus is more towards natural ways of overcoming mental illness. I would like people to eat healthily, perform physical activity, have enough sleep and rest, Practice Yoga/Meditation and maintain social connections. More than curing Mental Illness can help in keeping the individual on a sound mental health
+While there are many ways to tackle mental illness like Medication and Psychotherapy my focus is more towards natural ways of overcoming mental illness. I would like people to eat healthily, perform physical activity, have enough sleep and rest, Practice Yoga/Meditation and maintain social connections. More than curing Mental Illness can help in keeping the individual on a sound mental health.
 
 ## Summary of work
 
