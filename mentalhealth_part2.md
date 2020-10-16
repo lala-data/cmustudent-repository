@@ -47,4 +47,6 @@ I basically emailed to the reviewers telling them about the brief context on wha
 
 
 ## Conclusion 
-It was a great experience preparing the project to make it interesting. I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.I have to modify my charts to make it more understandable and also make the texts more clear and concise.During the course of this week I will enhance it and make it much better based on the feedback received.
+It was a great experience preparing the project to make it interesting. I used Persona and Moodboards which remarkably enhanced my original story. Reviewers provided me valuable feedback which I never thought of.All of them were deeply interested in the subject and earnest in providing feedback.I have to modify my charts to make it more understandable and also make the texts more clear and concise.During the course of this week I will enhance it and make it much better based on the feedback received.  
+
+Link to [Part 1](https://lala-data.github.io/cmustudent-repository/mentalhealth_part1.html)  
