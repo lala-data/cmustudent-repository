@@ -29,3 +29,6 @@ I also like scatter plot with slider. It gave me perspective on how the coutries
 Also tried line chart with highlight which gave a time series view.
 
 Out of all charts I preferred Columnar chart to be better visualization for the dataset provided.
+
+# Portfolio Home page 
+ [Click Here](https://lala-data.github.io/cmustudent-repository/) 
